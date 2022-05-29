@@ -28,8 +28,3 @@
     убедитесь, что все работает коректно и без ошибок. 
     Не выключайте терминал до тех пор пока скрипт не отработает.
 ```
-
-### Video
-````
-    [![Watch the video](https://disk.yandex.ru/i/jEhWjTkV_xl7zA)](https://disk.yandex.ru/i/9Sf2wC7v8Efs-A)
-````
