@@ -12,7 +12,7 @@ public class JsonGenerator {
             "        \"default\": \"{version}\",\n" +
             "        \"versions\": {\n" +
             "            \"{version}\": {\n" +
-            "                \"image\": \"selenoid/{browser}:{version}1\",\n" +
+            "                \"image\": \"selenoid/{browser}:{version}\",\n" +
             "                \"port\": \"4444\",\n" +
             "                \"path\": \"/\"\n" +
             "            }\n" +
